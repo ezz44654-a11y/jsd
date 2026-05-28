@@ -1,4 +1,4 @@
-return {
+local SongData = {
     ["ANIME/ATTACK ON TITAN"] = {
         { id = "131737171257366", title = "The Rumbling But it's Lofi (Attack On Titan)", duration = 85 },
         { id = "78589694220912", title = "Vientos serenos", duration = 124 },
