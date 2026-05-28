@@ -1,4 +1,4 @@
-local SongData = {
+
     ["ANIME/ATTACK ON TITAN"] = {
         { id = "131737171257366", title = "The Rumbling But it's Lofi (Attack On Titan)", duration = 85 },
         { id = "78589694220912", title = "Vientos serenos", duration = 124 },
@@ -3286,5 +3286,4 @@ local SongData = {
         { id = "103926672916669", title = "unwanted god ult", duration = 0 },
         { id = "105433356910719", title = "You're better off scamming people in hell, fraud.", duration = 0 },
         { id = "127863687687397", title = "You're in for a treat now..", duration = 0 },
-    },
-}
+    }
